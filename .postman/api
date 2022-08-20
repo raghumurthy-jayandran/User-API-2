@@ -9,7 +9,6 @@ rootDirectory = postman/collections
 
 [relations.apiDefinition]
 rootDirectory = single_file/proto 3
-files[] = {"path":"proto3.proto","metaData":{}}
 files[] = {"path":"New.proto","metaData":{}}
 
 [relations.apiDefinition.metaData]

@@ -15,4 +15,4 @@ files[] = {"path":"a.proto","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = proto:3
-rootFile = z-1/proto3.proto
+rootFile = z-1/New-4.proto

@@ -1,0 +1,19 @@
+id = 40de77d6-778e-4a0a-a116-6a5505bdec7c
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = multi-file/OAS 3.0 with other extensions
+files[] = {"path":"index/user_api.yaml","metaData":{}}
+files[] = {"path":"components/user_components.yaml","metaData":{}}
+files[] = {"path":"components/user_components copy.yaml","metaData":{}}
+files[] = {"path":"server.proto","metaData":{}}
+files[] = {"path":"proto.zip","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3

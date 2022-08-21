@@ -1,0 +1,18 @@
+id = e18bc059-61a4-436a-a5d0-02841950ce11
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"87f353d6-c5cb-41d5-be3f-092ca53734ba","path":"1_900611-87f353d6-c5cb-41d5-be3f-092ca53734ba.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = multi-file/OAS 3.0
+files[] = {"path":"index/user_api.yaml","metaData":{}}
+files[] = {"path":"components/user_components.yaml","metaData":{}}
+files[] = {"path":"components/user_components copy.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3

@@ -14,3 +14,4 @@ rootDirectory = single_file/proto 3
 files[] = {"path":"New.proto","metaData":{}}
 
 [relations.apiDefinition.metaData]
+rootFiles[] = New.proto

@@ -1,4 +1,4 @@
-id = 168a226a-373f-4864-bcb3-b6f6be52ab4a
+id = a554685e-1fbf-40d1-b44d-b223a3e2d466
 
 [relations]
 
@@ -10,8 +10,9 @@ files[] = {"id":"6815edde-6ff8-4ac1-818c-5f13ac735759","path":"collection-1_9006
 [relations.collections.metaData]
 
 [relations.apiDefinition]
-rootDirectory = single_file/proto3
-files[] = {"path":"f-1/f-2/New.proto","metaData":{}}
+rootDirectory = single_file/oas 3.0
+files[] = {"path":"OAS3_0.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 rootFiles[] = f-1/f-2/New.proto
+type = openapi:3

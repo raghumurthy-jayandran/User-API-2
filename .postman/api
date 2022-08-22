@@ -11,7 +11,5 @@ files[] = {"id":"6815edde-6ff8-4ac1-818c-5f13ac735759","path":"collection-1_9006
 
 [relations.apiDefinition]
 rootDirectory = single_file/proto3
-files[] = {"path":"f-1/New.proto","metaData":{}}
 
 [relations.apiDefinition.metaData]
-rootFiles[] = f-1/f-2/f-2/New.proto

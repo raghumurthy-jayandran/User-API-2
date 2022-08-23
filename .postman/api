@@ -11,9 +11,9 @@ files[] = {"id":"87f353d6-c5cb-41d5-be3f-092ca53734ba","path":"1_900611-87f353d6
 
 [relations.apiDefinition]
 rootDirectory = multi-file/OAS 3.0
-files[] = {"path":"index/user_api.yaml","metaData":{}}
 files[] = {"path":"components/user_components.yaml","metaData":{}}
 files[] = {"path":"components/user_components copy.yaml","metaData":{}}
+files[] = {"path":"f-1/f-2/f-2/user_api.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3

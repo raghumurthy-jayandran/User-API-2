@@ -14,6 +14,7 @@ rootDirectory = multi-file/OAS 3.0
 files[] = {"path":"components/user_components.yaml","metaData":{}}
 files[] = {"path":"components/user_components copy.yaml","metaData":{}}
 files[] = {"path":"f-1/f-2/f-2/user_api.yaml","metaData":{}}
+files[] = {"path":"components/New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3

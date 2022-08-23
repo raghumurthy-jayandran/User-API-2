@@ -1,0 +1,17 @@
+id = f9663c9a-ea3d-43a7-ab2f-644f2712fe0c
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"87f353d6-c5cb-41d5-be3f-092ca53734ba","path":"1_900611-87f353d6-c5cb-41d5-be3f-092ca53734ba.json","metaData":{}}
+files[] = {"id":"6815edde-6ff8-4ac1-818c-5f13ac735759","path":"collection-1_900611-6815edde-6ff8-4ac1-818c-5f13ac735759.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = single_file/proto3
+files[] = {"path":"proto3.proto","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = proto:3

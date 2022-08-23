@@ -16,4 +16,4 @@ files[] = {"path":"components/user_components copy.yaml","metaData":{}}
 files[] = {"path":"components/user_components.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
-type = openapi:3
+type = proto:3

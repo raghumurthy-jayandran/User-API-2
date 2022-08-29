@@ -1,11 +1,11 @@
 openapi: 3.0.0
 info:
   version: 1.0.10
-  title: User API
+  title: User API feature branch 1
 servers:
   - url: 'https://petstore.swagger.io/v1'
 paths:
-    /path-1:
+    /path-feature-branch-1:
      get:
       summary: 'Sample endpoint: Returns details about a particular users'
       operationId: listUser

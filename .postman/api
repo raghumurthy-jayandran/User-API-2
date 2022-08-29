@@ -1,20 +1,19 @@
-id = 3e7bcbe5-3c8a-4692-bd61-0678a292233c
+id = ecab4cf7-1e1f-4780-85d4-375a1775e62e
 
 [relations]
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"6815edde-6ff8-4ac1-818c-5f13ac735759","path":"collection-1_900611-6815edde-6ff8-4ac1-818c-5f13ac735759.json","metaData":{}}
 files[] = {"id":"87f353d6-c5cb-41d5-be3f-092ca53734ba","path":"1_900611-87f353d6-c5cb-41d5-be3f-092ca53734ba.json","metaData":{}}
+files[] = {"id":"6815edde-6ff8-4ac1-818c-5f13ac735759","path":"collection-1_900611-6815edde-6ff8-4ac1-818c-5f13ac735759.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = multi-file/OAS 3.0
-files[] = {"path":"components/user_components.yaml","metaData":{}}
-files[] = {"path":"components/New.yaml","metaData":{}}
 files[] = {"path":"components/user_components copy.yaml","metaData":{}}
-files[] = {"path":"f-1/f-2/f-2/user_api.yaml","metaData":{}}
+files[] = {"path":"components/user_components.yaml","metaData":{}}
+files[] = {"path":"index/user_api.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3

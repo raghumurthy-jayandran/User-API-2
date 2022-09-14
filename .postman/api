@@ -1,21 +1,18 @@
-id = eeecdd75-c47f-430a-bd40-df6cf75f96e3
+id = 24887c9c-2864-4b37-801c-38d1363edd64
 
 [relations]
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"9ce90725-e1d3-46fa-b2b9-d5eef0f72b56","path":"1_823981-9ce90725-e1d3-46fa-b2b9-d5eef0f72b56.json","metaData":{}}
-files[] = {"id":"87f353d6-c5cb-41d5-be3f-092ca53734ba","path":"1_900611-87f353d6-c5cb-41d5-be3f-092ca53734ba.json","metaData":{}}
-files[] = {"id":"a1bc77d2-76c0-43d6-b6da-1e70114d46bd","path":"2_823981-a1bc77d2-76c0-43d6-b6da-1e70114d46bd.json","metaData":{}}
-files[] = {"id":"6815edde-6ff8-4ac1-818c-5f13ac735759","path":"collection-1_900611-6815edde-6ff8-4ac1-818c-5f13ac735759.json","metaData":{}}
+files[] = {"id":"fa718ac0-37a3-42e6-87ee-bcb143acdb34","path":"1.json","metaData":{}}
+files[] = {"id":"c4dd6653-1699-4aca-b7f7-683a52ff73d0","path":"1_799e99bb-dcaf-4522-a685-da7c3357b432.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
-rootDirectory = multi-file/OAS 3.0
-files[] = {"path":"components/user_components copy.yaml","metaData":{}}
-files[] = {"path":"components/user_components.yaml","metaData":{}}
-files[] = {"path":"index/user_api.yaml","metaData":{}}
+rootDirectory = postman/schemas
+files[] = {"path":"index Copy.yaml","metaData":{}}
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3

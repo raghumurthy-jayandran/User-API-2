@@ -8,7 +8,7 @@
 	},
 	"item": [
 		{
-			"name": "Read a spacecraft",
+			"name": "Read a spacecraft - remote git",
 			"id": "48365a80-c5b7-4aea-9c47-30dee8c7a569",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true

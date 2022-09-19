@@ -4,13 +4,11 @@ id = cb0e07c6-0ede-4779-a11a-a00d6b23f5f6
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"23241782-3b460022-6ae2-4b6d-8049-b712c449bcd3","path":"col_1(1).json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"index Copy.yaml","metaData":{}}
 files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]

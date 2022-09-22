@@ -3,14 +3,16 @@ id = eeecdd75-c47f-430a-bd40-df6cf75f96e3
 [relations]
 
 [relations.collections]
-rootDirectory = my-collections
-files[] = {"id":"23241782-9830762f-2c4a-4542-a919-b8476fd4e5eb","path":"coll.json","metaData":{}}
+rootDirectory = postman/collections
+files[] = {"id":"23241782-9830762f-2c4a-4542-a919-b8476fd4e5eb","path":"col_1.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
-rootDirectory = postman/collections
-files[] = {"path":"col_1.json","metaData":{}}
+rootDirectory = multi-file/OAS 3.0 with other extensions
+files[] = {"path":"components/user_components copy.yaml","metaData":{}}
+files[] = {"path":"components/user_components.yaml","metaData":{}}
+files[] = {"path":"index/user_api.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3

@@ -9,10 +9,7 @@ files[] = {"id":"23241782-9830762f-2c4a-4542-a919-b8476fd4e5eb","path":"col_1.js
 [relations.collections.metaData]
 
 [relations.apiDefinition]
-rootDirectory = multi-file/OAS 3.0 with other extensions
-files[] = {"path":"components/user_components copy.yaml","metaData":{}}
-files[] = {"path":"components/user_components.yaml","metaData":{}}
-files[] = {"path":"index/user_api.yaml","metaData":{}}
+rootDirectory = single_file/proto3
 
 [relations.apiDefinition.metaData]
 type = openapi:3

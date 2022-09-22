@@ -12,4 +12,3 @@ files[] = {"id":"23241782-9830762f-2c4a-4542-a919-b8476fd4e5eb","path":"col_1.js
 rootDirectory = single_file/proto3
 
 [relations.apiDefinition.metaData]
-type = openapi:3

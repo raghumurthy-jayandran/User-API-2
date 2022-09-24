@@ -1,4 +1,4 @@
-id = eeecdd75-c47f-430a-bd40-df6cf75f96e3
+id = a6323a38-dc17-4d81-bfc5-c07798c2b39a
 
 [relations]
 
@@ -9,10 +9,9 @@ files[] = {"id":"23241782-9830762f-2c4a-4542-a919-b8476fd4e5eb","path":"col_1.js
 [relations.collections.metaData]
 
 [relations.apiDefinition]
-rootDirectory = single_file/proto3
-files[] = {"path":"proto3/proto3.proto","metaData":{}}
+rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
-type = proto:3
+type = openapi:3
 root[] = proto3/proto3.proto
-rootFiles[] = proto3/proto3.proto

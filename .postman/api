@@ -1,0 +1,17 @@
+id = b32cd4cc-3d68-412c-bbcf-eec0be47b966
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"23241782-9830762f-2c4a-4542-a919-b8476fd4e5eb","path":"col_1.json","metaData":{}}
+files[] = {"id":"14000324-c1fc2457-734c-4e07-a153-873e5c0305e4","path":"local_collection.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"index.json","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
